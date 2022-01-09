@@ -13,3 +13,5 @@ Day3: <a href="https://infosecwriteups.com/day3-computer-networks-100daysofhacki
 Day4: <a href="https://infosecwriteups.com/day-4-cn-network-topologies-100daysofhacking-d01377674623">Network Topologies</a>
 <br>
 Day5: <a href="https://3xabyt3.medium.com/day5-cn-subnetting-100daysofhacking-893346306e0d"> Subnetting </a>
+<br>
+Day6: <a href="https://3xabyt3.medium.com/day6-cn-arp-and-dhcp-protocol-100daysofhacking-2eae786dc97b"> ARP and DHCP </a>
