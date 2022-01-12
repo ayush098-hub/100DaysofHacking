@@ -17,3 +17,9 @@ Day 5: <a href="https://3xabyt3.medium.com/day5-cn-subnetting-100daysofhacking-8
 Day 6: <a href="https://3xabyt3.medium.com/day6-cn-arp-and-dhcp-protocol-100daysofhacking-2eae786dc97b"> ARP and DHCP </a>
 <br>
 Day 7: <a href="https://infosecwriteups.com/day-7-cn-osi-model-100daysofhacking-925c9e769a7d">OSI and TCP/IP Model</a>
+<br>
+Day 8: <a href="https://infosecwriteups.com/day-8-cn-tcp-udp-100daysofhacking-2584322871b1">TCP and UDP</a>
+<br>
+Day 9: <a href="https://infosecwriteups.com/day-9-cn-network-security-devices-100daysofhacking-b856b5ab092d">Networki Security Devices</a>
+<br>
+Day 10: <a href="https://3xabyt3.medium.com/day-10-all-about-dns-100daysofhacking-a337b8e763a">All about DNS</a>
