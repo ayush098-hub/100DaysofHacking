@@ -23,3 +23,8 @@ Day 8: <a href="https://infosecwriteups.com/day-8-cn-tcp-udp-100daysofhacking-25
 Day 9: <a href="https://infosecwriteups.com/day-9-cn-network-security-devices-100daysofhacking-b856b5ab092d">Networki Security Devices</a>
 <br>
 Day 10: <a href="https://3xabyt3.medium.com/day-10-all-about-dns-100daysofhacking-a337b8e763a">All about DNS</a>
+<br>
+Day 11: <a href="https://3xabyt3.medium.com/day-11-all-about-http-protocol-100daysofhacking-bfc0d68d06b7">All about HTTP Protocol</a>
+<br>
+Day 12: <a href="https://3xabyt3.medium.com/day-12-internet-security-controls-100daysofhacking-b407129a452b">Internet Security Controls</a>
+
