@@ -22,7 +22,7 @@ Day 7: <a href="https://infosecwriteups.com/day-7-cn-osi-model-100daysofhacking-
 <br>
 Day 8: <a href="https://infosecwriteups.com/day-8-cn-tcp-udp-100daysofhacking-2584322871b1">TCP and UDP</a>
 <br>
-Day 9: <a href="https://infosecwriteups.com/day-9-cn-network-security-devices-100daysofhacking-b856b5ab092d">Networki Security Devices</a>
+Day 9: <a href="https://infosecwriteups.com/day-9-cn-network-security-devices-100daysofhacking-b856b5ab092d">Network Security Devices</a>
 <br>
 Day 10: <a href="https://3xabyt3.medium.com/day-10-all-about-dns-100daysofhacking-a337b8e763a">All about DNS</a>
 <br>
