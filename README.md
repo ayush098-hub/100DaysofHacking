@@ -32,4 +32,10 @@ Day 12: <a href="https://3xabyt3.medium.com/day-12-internet-security-controls-10
 
 ## Penetration Testing
 Day 13: <a href="https://3xabyt3.medium.com/day-13-introduction-to-pentesting-100daysofhacking-bc44550e8548">Introduction to Pentesting</a>
+<br>
+Day 14: <a href="https://infosecwriteups.com/day-14-set-up-environment-for-pentesting-100daysofhacking-f8069e91fcd2">Set Up Environment</a>
+<br>
+Day 15: <a href="https://3xabyt3.medium.com/day-15-all-about-burp-suite-100daysofhacking-7d6ae2481c70">All about burpsuite</a>
+<br>
+Day 16: <a href="https://3xabyt3.medium.com/day-16-web-reconnaissance-or-information-gathering-part-1-100daysofhacking-43d0c723611c">Web Reconnaissance Or Information Gathering — Part 1</a>
 
