@@ -38,4 +38,10 @@ Day 14: <a href="https://infosecwriteups.com/day-14-set-up-environment-for-pente
 Day 15: <a href="https://3xabyt3.medium.com/day-15-all-about-burp-suite-100daysofhacking-7d6ae2481c70">All about burpsuite</a>
 <br>
 Day 16: <a href="https://3xabyt3.medium.com/day-16-web-reconnaissance-or-information-gathering-part-1-100daysofhacking-43d0c723611c">Web Reconnaissance Or Information Gathering — Part 1</a>
+<br>
+Day 17: <a href="https://infosecwriteups.com/day-17-web-reconnaissance-or-information-gathering-part-2-100daysofhacking-323ecea7f0a3">>Web Reconnaissance Or Information Gathering — Part 2</a>
+<br>
+Day 18: <a href="https://3xabyt3.medium.com/day-18-web-reconnaissance-or-information-gathering-part-3-100daysofhacking-7bc7748a326e">Web Reconnaissance Or Information Gathering — Part 3</a>
+<br>
+Day 19: <a href="https://infosecwriteups.com/day-19-web-reconnaissance-or-information-gathering-part-4-100daysofhacking-377c9fc624bb">Web Reconnaissance Or Information Gathering — Part 4</a>
 
