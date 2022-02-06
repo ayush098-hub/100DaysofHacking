@@ -30,7 +30,7 @@ Day 11: <a href="https://3xabyt3.medium.com/day-11-all-about-http-protocol-100da
 <br>
 Day 12: <a href="https://3xabyt3.medium.com/day-12-internet-security-controls-100daysofhacking-b407129a452b">Internet Security Controls</a>
 
-## Penetration Testing
+## Penetration Testing - Information Gathering
 Day 13: <a href="https://3xabyt3.medium.com/day-13-introduction-to-pentesting-100daysofhacking-bc44550e8548">Introduction to Pentesting</a>
 <br>
 Day 14: <a href="https://infosecwriteups.com/day-14-set-up-environment-for-pentesting-100daysofhacking-f8069e91fcd2">Set Up Environment</a>
@@ -39,9 +39,15 @@ Day 15: <a href="https://3xabyt3.medium.com/day-15-all-about-burp-suite-100dayso
 <br>
 Day 16: <a href="https://3xabyt3.medium.com/day-16-web-reconnaissance-or-information-gathering-part-1-100daysofhacking-43d0c723611c">Web Reconnaissance Or Information Gathering — Part 1</a>
 <br>
-Day 17: <a href="https://infosecwriteups.com/day-17-web-reconnaissance-or-information-gathering-part-2-100daysofhacking-323ecea7f0a3">>Web Reconnaissance Or Information Gathering — Part 2</a>
+Day 17: <a href="https://infosecwriteups.com/day-17-web-reconnaissance-or-information-gathering-part-2-100daysofhacking-323ecea7f0a3">Web Reconnaissance Or Information Gathering — Part 2</a>
 <br>
 Day 18: <a href="https://3xabyt3.medium.com/day-18-web-reconnaissance-or-information-gathering-part-3-100daysofhacking-7bc7748a326e">Web Reconnaissance Or Information Gathering — Part 3</a>
 <br>
 Day 19: <a href="https://infosecwriteups.com/day-19-web-reconnaissance-or-information-gathering-part-4-100daysofhacking-377c9fc624bb">Web Reconnaissance Or Information Gathering — Part 4</a>
+<br>
+Day 20: <a href="https://infosecwriteups.com/day-20-web-reconnaissance-or-information-gathering-part-5-100daysofhacking-5392d48233db">Web Reconnaissance Or Information Gathering — Part 5</a>
+<br>
+Day 21: <a href="https://infosecwriteups.com/day-21-web-reconnaissance-or-information-gathering-part-6-100daysofhacking-e6b65f48247e">Web Reconnaissance Or Information Gathering — Part 6 </a>
+## Penetration Testing - Web Vulnerabilities
+Day 22: <a href="https://3xabyt3.medium.com/day-22-cross-site-scripting-part-1-100daysofhacking-a9fe6d3a59c8">Cross Site Scripting — Part 1</a>
 
