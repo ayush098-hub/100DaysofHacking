@@ -50,4 +50,7 @@ Day 20: <a href="https://infosecwriteups.com/day-20-web-reconnaissance-or-inform
 Day 21: <a href="https://infosecwriteups.com/day-21-web-reconnaissance-or-information-gathering-part-6-100daysofhacking-e6b65f48247e">Web Reconnaissance Or Information Gathering — Part 6 </a>
 ## Penetration Testing - Web Vulnerabilities
 Day 22: <a href="https://3xabyt3.medium.com/day-22-cross-site-scripting-part-1-100daysofhacking-a9fe6d3a59c8">Cross Site Scripting — Part 1</a>
+<br>
+Day 23: <a href="https://3xabyt3.medium.com/day-23-hunting-for-xss-100daysofhacking-de0013042470">Cross Site Scripting — Part 2</a>
+
 
